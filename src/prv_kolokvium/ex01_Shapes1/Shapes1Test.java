@@ -1,4 +1,4 @@
-package prv_kolokvium.ex1_Shapes1;
+package prv_kolokvium.ex01_Shapes1;
 
 import java.io.*;
 import java.util.ArrayList;

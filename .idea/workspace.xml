@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3bcd809-6b3e-4076-9b0f-23fc0af324fb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aud1/bank/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auds/aud1/bank/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aud1/bank/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auds/aud1/bank/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aud1/bank/InterestBearingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auds/aud1/bank/InterestBearingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aud1/bank/InterestCheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auds/aud1/bank/InterestCheckingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aud1/bank/NonInterestCheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auds/aud1/bank/NonInterestCheckingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aud1/bank/PlatinumCheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auds/aud1/bank/PlatinumCheckingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aud1/calculator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auds/aud1/calculator/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aud2/anonimniKlasiPlusLambdaIzrazi/InterfaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auds/aud2/anonimniKlasiPlusLambdaIzrazi/InterfaceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aud2/calculator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auds/aud2/calculator/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aud2/funkciskiInterfejsi/FunctionalInterfacesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auds/aud2/funkciskiInterfejsi/FunctionalInterfacesDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aud2/studenti/CourseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auds/aud2/studenti/CourseDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex1/Shapes1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex1_Shapes1/Shapes1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex10/TripleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex10_Triple/TripleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex11/EvaluatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex11_Evaluator/EvaluatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex13/ApplicantEvaluationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex13_ApplicantEvaluation/ApplicantEvaluationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex18/FrontPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex18_FrontPage/FrontPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex2/Shapes2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex2_Shapes2/Shapes2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex6/ShapesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex6_Shapes/ShapesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex8/ArchiveStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex8_ArchiveStore/ArchiveStoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prv_kolokvium/ex1_Shapes1/Shapes1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex01_Shapes1/Shapes1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prv_kolokvium/ex2_Shapes2/Shapes2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex02_Shapes2/Shapes2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prv_kolokvium/ex6_Shapes/ShapesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex06_Shapes/ShapesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prv_kolokvium/ex8_ArchiveStore/ArchiveStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex08_ArchiveStore/ArchiveStoreTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,6 +189,7 @@
       <workItem from="1762720009729" duration="14849000" />
       <workItem from="1762800204324" duration="19639000" />
       <workItem from="1762821244572" duration="281000" />
+      <workItem from="1762821578464" duration="34000" />
     </task>
     <servers />
   </component>
@@ -220,17 +205,17 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/prv_kolokvium/ex8_ArchiveStore/ArchiveStoreTest.java</url>
+          <url>file://$PROJECT_DIR$/src/prv_kolokvium/ex08_ArchiveStore/ArchiveStoreTest.java</url>
           <line>69</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/prv_kolokvium/ex8_ArchiveStore/ArchiveStoreTest.java</url>
+          <url>file://$PROJECT_DIR$/src/prv_kolokvium/ex08_ArchiveStore/ArchiveStoreTest.java</url>
           <line>80</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/prv_kolokvium/ex8_ArchiveStore/ArchiveStoreTest.java</url>
+          <url>file://$PROJECT_DIR$/src/prv_kolokvium/ex08_ArchiveStore/ArchiveStoreTest.java</url>
           <line>89</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>

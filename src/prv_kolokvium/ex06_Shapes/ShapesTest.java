@@ -1,4 +1,4 @@
-package prv_kolokvium.ex6_Shapes;
+package prv_kolokvium.ex06_Shapes;
 
 import java.util.ArrayList;
 import java.util.Scanner;

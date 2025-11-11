@@ -3,7 +3,7 @@
 // ne e doreshena :)
 
 
-package prv_kolokvium.ex8_ArchiveStore;
+package prv_kolokvium.ex08_ArchiveStore;
 
 import java.util.*;
 import java.util.Scanner;
