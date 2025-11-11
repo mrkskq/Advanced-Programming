@@ -1,6 +1,5 @@
-package lab1ex3;
+package labs.lab1ex3;
 
-import javax.print.Doc;
 import java.util.Scanner;
 import java.util.function.Predicate;
 import java.util.function.Function;

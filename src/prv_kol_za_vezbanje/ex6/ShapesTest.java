@@ -1,8 +1,6 @@
-package prv_kol_za_vezbanje.ShapesTest;
+package prv_kol_za_vezbanje.ex6;
 
-import java.io.BufferedWriter;
 import java.util.ArrayList;
-import java.util.Objects;
 import java.util.Scanner;
 
 enum Color {

@@ -1,4 +1,4 @@
-package prv_kol_za_vezbanje.Shapes1Test;
+package prv_kol_za_vezbanje.ex1;
 
 import java.io.*;
 import java.util.ArrayList;

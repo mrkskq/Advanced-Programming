@@ -1,8 +1,7 @@
-package prv_kol_za_vezbanje.Shapes2Test;
+package prv_kol_za_vezbanje.ex2;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Comparator;
 
 class IrregularCanvasException extends Exception {
     public IrregularCanvasException(String message) {

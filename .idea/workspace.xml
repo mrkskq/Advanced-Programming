@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3bcd809-6b3e-4076-9b0f-23fc0af324fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1ex1/BankTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/lab1ex1/BankTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1ex2/CirclesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/lab1ex2/CirclesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab1ex3/HospitalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs/lab1ex3/HospitalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prv_kol_za_vezbanje/Shapes1Test/Shapes1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex1/Shapes1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prv_kol_za_vezbanje/Shapes2Test/Shapes2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex2/Shapes2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prv_kol_za_vezbanje/ShapesTest/ShapesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex6/ShapesTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +39,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ApplicantEvaluationTest.executor": "Run",
+    "Application.ArchiveStoreTest (1).executor": "Debug",
+    "Application.ArchiveStoreTest.executor": "Debug",
     "Application.BankTester.executor": "Run",
     "Application.CirclesTest (1).executor": "Run",
     "Application.CirclesTest (2).executor": "Run",
     "Application.CirclesTest.executor": "Run",
+    "Application.ComplexNumberTest.executor": "Run",
+    "Application.EnrollmentsTest.executor": "Run",
+    "Application.EvaluatorTest.executor": "Run",
+    "Application.FrontPageTest.executor": "Run",
+    "Application.GenericFractionTest.executor": "Run",
     "Application.HospitalDemo.executor": "Run",
+    "Application.LocalDateTimeTest.executor": "Run",
+    "Application.LocalTimeTest.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Debug",
     "Application.MinAndMax (1).executor": "Run",
     "Application.MinAndMax.executor": "Run",
+    "Application.MojDDVTest.executor": "Debug",
+    "Application.MovieTheaterTester (1).executor": "Run",
+    "Application.MovieTheaterTester.executor": "Run",
+    "Application.ResizableArrayTest.executor": "Run",
+    "Application.SchedulerTest.executor": "Run",
     "Application.Shapes1Test.executor": "Run",
     "Application.Shapes2Test (1).executor": "Run",
     "Application.Shapes2Test.executor": "Run",
     "Application.ShapesTest.executor": "Run",
+    "Application.TripleTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -59,17 +81,20 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lab2ex6" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="prv_kol_za_vezbanje.Shapes2Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShapesTest">
-    <configuration name="MinAndMax (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kol_za_vezbanje.MinAndMax.MinAndMax" />
+  <component name="RunManager" selected="Application.FrontPageTest">
+    <configuration name="ApplicantEvaluationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kol_za_vezbanje.ex13.ApplicantEvaluationTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kol_za_vezbanje.MinAndMax.*" />
+          <option name="PATTERN" value="prv_kol_za_vezbanje.ex13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinAndMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kol_za_vezbanje.MinAndMax.MinAndMax" />
+    <configuration name="EvaluatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kol_za_vezbanje.ex11.EvaluatorTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kol_za_vezbanje.MinAndMax.*" />
+          <option name="PATTERN" value="prv_kol_za_vezbanje.ex11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shapes2Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kol_za_vezbanje.Shapes2Test.Shapes2Test" />
+    <configuration name="FrontPageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kol_za_vezbanje.ex18.FrontPageTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kol_za_vezbanje.Shapes2Test.*" />
+          <option name="PATTERN" value="prv_kol_za_vezbanje.ex18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shapes2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kol_za_vezbanje.Shapes2Test.Shapes2Test" />
+    <configuration name="GenericFractionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kol_za_vezbanje.ex12.GenericFractionTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kol_za_vezbanje.Shapes2Test.*" />
+          <option name="PATTERN" value="prv_kol_za_vezbanje.ex12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kol_za_vezbanje.ShapesTest.ShapesTest" />
+    <configuration name="MojDDVTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kol_za_vezbanje.ex16.MojDDVTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kol_za_vezbanje.ShapesTest.*" />
+          <option name="PATTERN" value="prv_kol_za_vezbanje.ex16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShapesTest" />
-        <item itemvalue="Application.MinAndMax" />
-        <item itemvalue="Application.MinAndMax (1)" />
-        <item itemvalue="Application.Shapes2Test (1)" />
-        <item itemvalue="Application.Shapes2Test" />
+        <item itemvalue="Application.FrontPageTest" />
+        <item itemvalue="Application.MojDDVTest" />
+        <item itemvalue="Application.ApplicantEvaluationTest" />
+        <item itemvalue="Application.GenericFractionTest" />
+        <item itemvalue="Application.EvaluatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -161,10 +186,51 @@
       <workItem from="1761756198249" duration="555000" />
       <workItem from="1761756916263" duration="22091000" />
       <workItem from="1762194354690" duration="20049000" />
+      <workItem from="1762214820881" duration="25000" />
+      <workItem from="1762357947023" duration="1885000" />
+      <workItem from="1762375231039" duration="6450000" />
+      <workItem from="1762720009729" duration="14849000" />
+      <workItem from="1762800204324" duration="19639000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/labs/lab3ex3/EnrollmentsTest.java</url>
+          <line>187</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex8/ArchiveStoreTest.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex8/ArchiveStoreTest.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex8/ArchiveStoreTest.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex16/MojDDVTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prv_kol_za_vezbanje/ex16/MojDDVTest.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

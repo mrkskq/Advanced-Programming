@@ -1,4 +1,4 @@
-package lab1ex2;
+package labs.lab1ex2;
 
 import java.util.*;
 
