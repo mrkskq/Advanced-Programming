@@ -48,7 +48,7 @@ class ArchiveStore{
     private StringBuilder sb;
 
     public ArchiveStore() {
-        this.archives = new ArrayList<>();
+        this.archives = new ArrayList<Archive>();
         this.sb = new StringBuilder();
     }
 
@@ -67,7 +67,8 @@ class ArchiveStore{
 
         //При отварање ако се работи за LockedArhive и датумот на отварање е пред датумот кога може да се отвори,
         //да се додаде порака Item [id] cannot be opened before [date]
-        if (a instanceof LockedArchive la){
+        if (a instanceof LockedArchive){
+            LockedArchive la = (LockedArchive)a;
             if (date.before(la.getDateToOpen())){
                 sb.append("Item "+la.getId()+" cannot be opened before "+la.getDateToOpen()+"\n");
             }
@@ -78,12 +79,13 @@ class ArchiveStore{
 
         //Ако се работи за SpecialArhive и се обидиеме да ја отвориме повеќе пати од дозволениот број (maxOpen)
         //да се додаде порака Item [id] cannot be opened more than [maxOpen] times.
-        else if (a instanceof SpecialArchive sa){
-            sa.incrementOpenedCount();
+        else if (a instanceof SpecialArchive){
+            SpecialArchive sa = (SpecialArchive)a;
             if (sa.getOpenedCount() >= sa.getMaxOpen()){
                 sb.append("Item "+sa.getId()+" cannot be opened more than "+sa.getMaxOpen()+" times\n");
             }
             else {
+                sa.incrementOpenedCount();
                 sb.append("Item "+sa.getId()+" opened at "+date+"\n");
             }
         }

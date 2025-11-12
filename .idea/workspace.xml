@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3bcd809-6b3e-4076-9b0f-23fc0af324fb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/prv_kolokvium/ex1_Shapes1/Shapes1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex01_Shapes1/Shapes1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prv_kolokvium/ex2_Shapes2/Shapes2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex02_Shapes2/Shapes2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prv_kolokvium/ex6_Shapes/ShapesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex06_Shapes/ShapesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prv_kolokvium/ex8_ArchiveStore/ArchiveStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex08_ArchiveStore/ArchiveStoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prv_kolokvium/ex08_ArchiveStore/ArchiveStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex08_ArchiveStore/ArchiveStoreTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,49 +32,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ApplicantEvaluationTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArchiveStoreTest (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ArchiveStoreTest.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BankTester.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CirclesTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.CirclesTest (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.CirclesTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComplexNumberTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EnrollmentsTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvaluatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FrontPageTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericFractionTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HospitalDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LocalDateTimeTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LocalTimeTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MinAndMax (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinAndMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MojDDVTest.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MovieTheaterTester (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovieTheaterTester.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ResizableArrayTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SchedulerTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shapes1Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shapes2Test (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shapes2Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShapesTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TripleTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ApplicantEvaluationTest.executor": "Run",
+    "Application.ArchiveStoreTest (1).executor": "Debug",
+    "Application.ArchiveStoreTest.executor": "Run",
+    "Application.BankTester.executor": "Run",
+    "Application.BooksTest (1).executor": "Debug",
+    "Application.BooksTest.executor": "Run",
+    "Application.CirclesTest (1).executor": "Run",
+    "Application.CirclesTest (2).executor": "Run",
+    "Application.CirclesTest.executor": "Run",
+    "Application.ComplexNumberTest.executor": "Run",
+    "Application.EnrollmentsTest.executor": "Run",
+    "Application.EvaluatorTest.executor": "Run",
+    "Application.F1Test (1).executor": "Run",
+    "Application.F1Test (2).executor": "Run",
+    "Application.F1Test.executor": "Run",
+    "Application.FrontPageTest.executor": "Run",
+    "Application.GenericFractionTest.executor": "Run",
+    "Application.HospitalDemo.executor": "Run",
+    "Application.LoadedCoinTest.executor": "Run",
+    "Application.LocalDateTimeTest.executor": "Run",
+    "Application.LocalTimeTest.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Debug",
+    "Application.MinAndMax (1).executor": "Run",
+    "Application.MinAndMax.executor": "Run",
+    "Application.MojDDVTest.executor": "Debug",
+    "Application.MovieTheaterTester (1).executor": "Run",
+    "Application.MovieTheaterTester.executor": "Run",
+    "Application.ResizableArrayTest.executor": "Run",
+    "Application.SchedulerTest.executor": "Run",
+    "Application.Shapes1Test.executor": "Run",
+    "Application.Shapes2Test (1).executor": "Run",
+    "Application.Shapes2Test.executor": "Run",
+    "Application.ShapesTest.executor": "Run",
+    "Application.SubtitlesTest (1).executor": "Run",
+    "Application.SubtitlesTest.executor": "Debug",
+    "Application.TripleTest.executor": "Run",
+    "Application.WeatherStationTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lab2ex6" />
@@ -85,13 +92,13 @@
       <recent name="prv_kol_za_vezbanje.Shapes2Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FrontPageTest">
-    <configuration name="ApplicantEvaluationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex13_ApplicantEvaluation.ApplicantEvaluationTest" />
+  <component name="RunManager" selected="Application.BooksTest (1)">
+    <configuration name="BooksTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex24_Books.BooksTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex13_ApplicantEvaluation.*" />
+          <option name="PATTERN" value="prv_kolokvium.ex24_Books.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvaluatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex11_Evaluator.EvaluatorTest" />
+    <configuration name="BooksTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex24_Books.BooksTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex11_Evaluator.*" />
+          <option name="PATTERN" value="prv_kolokvium.ex24_Books.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrontPageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex18_FrontPage.FrontPageTest" />
+    <configuration name="F1Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex22_F1.F1Test" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex18_FrontPage.*" />
+          <option name="PATTERN" value="prv_kolokvium.ex22_F1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericFractionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kol_za_vezbanje.ex12.GenericFractionTest" />
+    <configuration name="F1Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex22_F1.F1Test" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kol_za_vezbanje.ex12.*" />
+          <option name="PATTERN" value="prv_kolokvium.ex22_F1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MojDDVTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kol_za_vezbanje.ex16.MojDDVTest" />
+    <configuration name="F1Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex22_F1.F1Test" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kol_za_vezbanje.ex16.*" />
+          <option name="PATTERN" value="prv_kolokvium.ex22_F1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FrontPageTest" />
-        <item itemvalue="Application.MojDDVTest" />
-        <item itemvalue="Application.ApplicantEvaluationTest" />
-        <item itemvalue="Application.GenericFractionTest" />
-        <item itemvalue="Application.EvaluatorTest" />
+        <item itemvalue="Application.BooksTest (1)" />
+        <item itemvalue="Application.BooksTest" />
+        <item itemvalue="Application.F1Test (2)" />
+        <item itemvalue="Application.F1Test (1)" />
+        <item itemvalue="Application.F1Test" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +197,8 @@
       <workItem from="1762800204324" duration="19639000" />
       <workItem from="1762821244572" duration="281000" />
       <workItem from="1762821578464" duration="34000" />
+      <workItem from="1762882255727" duration="19000" />
+      <workItem from="1762894023441" duration="18060000" />
     </task>
     <servers />
   </component>
@@ -211,12 +220,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/prv_kolokvium/ex08_ArchiveStore/ArchiveStoreTest.java</url>
-          <line>80</line>
+          <line>81</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/prv_kolokvium/ex08_ArchiveStore/ArchiveStoreTest.java</url>
-          <line>89</line>
+          <line>91</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
