@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e3bcd809-6b3e-4076-9b0f-23fc0af324fb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prv_kolokvium/ex08_ArchiveStore/ArchiveStoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex08_ArchiveStore/ArchiveStoreTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AirportsTest (1).executor": "Run",
+    "Application.AirportsTest (2).executor": "Run",
+    "Application.AirportsTest.executor": "Run",
     "Application.ApplicantEvaluationTest.executor": "Run",
     "Application.ArchiveStoreTest (1).executor": "Debug",
     "Application.ArchiveStoreTest.executor": "Run",
@@ -51,6 +53,8 @@
     "Application.F1Test.executor": "Run",
     "Application.FrontPageTest.executor": "Run",
     "Application.GenericFractionTest.executor": "Run",
+    "Application.HealthyMeals (1).executor": "Run",
+    "Application.HealthyMeals.executor": "Run",
     "Application.HospitalDemo.executor": "Run",
     "Application.LoadedCoinTest.executor": "Run",
     "Application.LocalDateTimeTest.executor": "Run",
@@ -92,13 +96,13 @@
       <recent name="prv_kol_za_vezbanje.Shapes2Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BooksTest (1)">
-    <configuration name="BooksTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex24_Books.BooksTest" />
+  <component name="RunManager" selected="Application.AirportsTest (2)">
+    <configuration name="AirportsTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="auds.aud5.airports.AirportsTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex24_Books.*" />
+          <option name="PATTERN" value="auds.aud5.airports.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BooksTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex24_Books.BooksTest" />
+    <configuration name="AirportsTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="auds.aud5.airports.AirportsTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex24_Books.*" />
+          <option name="PATTERN" value="auds.aud5.airports.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F1Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex22_F1.F1Test" />
+    <configuration name="AirportsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="auds.aud5.airports.AirportsTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex22_F1.*" />
+          <option name="PATTERN" value="auds.aud5.airports.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F1Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex22_F1.F1Test" />
+    <configuration name="HealthyMeals (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="auds.aud5.healthyMeals.HealthyMeals" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex22_F1.*" />
+          <option name="PATTERN" value="auds.aud5.healthyMeals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F1Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex22_F1.F1Test" />
+    <configuration name="HealthyMeals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="auds.aud5.healthyMeals.HealthyMeals" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex22_F1.*" />
+          <option name="PATTERN" value="auds.aud5.healthyMeals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BooksTest (1)" />
-        <item itemvalue="Application.BooksTest" />
-        <item itemvalue="Application.F1Test (2)" />
-        <item itemvalue="Application.F1Test (1)" />
-        <item itemvalue="Application.F1Test" />
+        <item itemvalue="Application.AirportsTest (2)" />
+        <item itemvalue="Application.AirportsTest (1)" />
+        <item itemvalue="Application.AirportsTest" />
+        <item itemvalue="Application.HealthyMeals" />
+        <item itemvalue="Application.HealthyMeals (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +203,8 @@
       <workItem from="1762821578464" duration="34000" />
       <workItem from="1762882255727" duration="19000" />
       <workItem from="1762894023441" duration="18060000" />
+      <workItem from="1762971486338" duration="2752000" />
+      <workItem from="1762976155740" duration="4288000" />
     </task>
     <servers />
   </component>
