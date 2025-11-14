@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e3bcd809-6b3e-4076-9b0f-23fc0af324fb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prv_kolokvium/ex17_LoadedCoin/LoadedCoinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex18_LoadedCoin/LoadedCoinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prv_kolokvium/ex18_FrontPage/FrontPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex19_FrontPage/FrontPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -42,30 +45,59 @@
     "Application.BankTester.executor": "Run",
     "Application.BooksTest (1).executor": "Debug",
     "Application.BooksTest.executor": "Run",
+    "Application.CarTest.executor": "Run",
     "Application.CirclesTest (1).executor": "Run",
     "Application.CirclesTest (2).executor": "Run",
     "Application.CirclesTest.executor": "Run",
     "Application.ComplexNumberTest.executor": "Run",
+    "Application.ComponentTest (1).executor": "Run",
+    "Application.ComponentTest (2).executor": "Run",
+    "Application.ComponentTest (3).executor": "Run",
+    "Application.ComponentTest (4).executor": "Run",
+    "Application.ComponentTest (5).executor": "Run",
+    "Application.ComponentTest.executor": "Run",
+    "Application.DailyTemperatureTest (1).executor": "Run",
+    "Application.DailyTemperatureTest (2).executor": "Run",
+    "Application.DailyTemperatureTest.executor": "Run",
+    "Application.DiscountsTest (1).executor": "Run",
+    "Application.DiscountsTest (2).executor": "Run",
+    "Application.DiscountsTest (3).executor": "Run",
+    "Application.DiscountsTest.executor": "Run",
     "Application.EnrollmentsTest.executor": "Run",
     "Application.EvaluatorTest.executor": "Run",
     "Application.F1Test (1).executor": "Run",
     "Application.F1Test (2).executor": "Run",
     "Application.F1Test.executor": "Run",
+    "Application.FileSystemTest (1).executor": "Run",
+    "Application.FileSystemTest (2).executor": "Run",
+    "Application.FileSystemTest (3).executor": "Run",
+    "Application.FileSystemTest (4).executor": "Run",
+    "Application.FileSystemTest (5).executor": "Run",
+    "Application.FileSystemTest.executor": "Run",
     "Application.FrontPageTest.executor": "Run",
     "Application.GenericFractionTest.executor": "Run",
     "Application.HealthyMeals (1).executor": "Run",
     "Application.HealthyMeals.executor": "Run",
     "Application.HospitalDemo.executor": "Run",
+    "Application.LabExercisesTest (1).executor": "Run",
+    "Application.LabExercisesTest (2).executor": "Run",
+    "Application.LabExercisesTest.executor": "Run",
     "Application.LoadedCoinTest.executor": "Run",
     "Application.LocalDateTimeTest.executor": "Run",
     "Application.LocalTimeTest.executor": "Run",
+    "Application.LoggerTest (1).executor": "Run",
+    "Application.LoggerTest.executor": "Run",
     "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Debug",
     "Application.MinAndMax (1).executor": "Run",
     "Application.MinAndMax.executor": "Run",
-    "Application.MojDDVTest.executor": "Debug",
+    "Application.MojDDVTest (1).executor": "Run",
+    "Application.MojDDVTest (2).executor": "Run",
+    "Application.MojDDVTest (3).executor": "Run",
+    "Application.MojDDVTest.executor": "Run",
     "Application.MovieTheaterTester (1).executor": "Run",
     "Application.MovieTheaterTester.executor": "Run",
+    "Application.MoviesTest.executor": "Run",
     "Application.ResizableArrayTest.executor": "Run",
     "Application.SchedulerTest.executor": "Run",
     "Application.Shapes1Test.executor": "Run",
@@ -76,6 +108,8 @@
     "Application.SubtitlesTest.executor": "Debug",
     "Application.TripleTest.executor": "Run",
     "Application.WeatherStationTest.executor": "Run",
+    "Application.prv_kolokvium.ex17_MojDDV2.MojDDVTest (1).executor": "Run",
+    "Application.prv_kolokvium.ex17_MojDDV2.MojDDVTest.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -96,13 +130,13 @@
       <recent name="prv_kol_za_vezbanje.Shapes2Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AirportsTest (2)">
-    <configuration name="AirportsTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="auds.aud5.airports.AirportsTest" />
+  <component name="RunManager" selected="Application.MojDDVTest (1)">
+    <configuration name="MojDDVTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex17_MojDDV2.MojDDVTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="auds.aud5.airports.*" />
+          <option name="PATTERN" value="prv_kolokvium.ex17_MojDDV2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AirportsTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="auds.aud5.airports.AirportsTest" />
+    <configuration name="MojDDVTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex16_MojDDV.MojDDVTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="auds.aud5.airports.*" />
+          <option name="PATTERN" value="prv_kolokvium.ex16_MojDDV.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AirportsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="auds.aud5.airports.AirportsTest" />
+    <configuration name="MojDDVTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex17_MojDDV2.MojDDVTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="auds.aud5.airports.*" />
+          <option name="PATTERN" value="prv_kolokvium.ex17_MojDDV2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HealthyMeals (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="auds.aud5.healthyMeals.HealthyMeals" />
+    <configuration name="prv_kolokvium.ex17_MojDDV2.MojDDVTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex17_MojDDV2.MojDDVTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="auds.aud5.healthyMeals.*" />
+          <option name="PATTERN" value="prv_kolokvium.ex17_MojDDV2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HealthyMeals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="auds.aud5.healthyMeals.HealthyMeals" />
+    <configuration name="prv_kolokvium.ex17_MojDDV2.MojDDVTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex17_MojDDV2.MojDDVTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="auds.aud5.healthyMeals.*" />
+          <option name="PATTERN" value="prv_kolokvium.ex17_MojDDV2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AirportsTest (2)" />
-        <item itemvalue="Application.AirportsTest (1)" />
-        <item itemvalue="Application.AirportsTest" />
-        <item itemvalue="Application.HealthyMeals" />
-        <item itemvalue="Application.HealthyMeals (1)" />
+        <item itemvalue="Application.MojDDVTest (1)" />
+        <item itemvalue="Application.MojDDVTest" />
+        <item itemvalue="Application.prv_kolokvium.ex17_MojDDV2.MojDDVTest (1)" />
+        <item itemvalue="Application.prv_kolokvium.ex17_MojDDV2.MojDDVTest" />
+        <item itemvalue="Application.MojDDVTest (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +238,10 @@
       <workItem from="1762882255727" duration="19000" />
       <workItem from="1762894023441" duration="18060000" />
       <workItem from="1762971486338" duration="2752000" />
-      <workItem from="1762976155740" duration="4288000" />
+      <workItem from="1762976155740" duration="12666000" />
+      <workItem from="1763023057182" duration="5569000" />
+      <workItem from="1763060594098" duration="22087000" />
+      <workItem from="1763119474349" duration="14257000" />
     </task>
     <servers />
   </component>
@@ -243,6 +280,11 @@
           <url>file://$PROJECT_DIR$/src/prv_kolokvium/ex16/MojDDVTest.java</url>
           <line>34</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prv_kolokvium/ex45_LabExercises/LabExercisesTest.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

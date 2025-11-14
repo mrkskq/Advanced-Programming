@@ -1,4 +1,4 @@
-package prv_kolokvium.ex17_LoadedCoin;
+package prv_kolokvium.ex18_LoadedCoin;
 
 import java.util.Random;
 import java.util.Scanner;

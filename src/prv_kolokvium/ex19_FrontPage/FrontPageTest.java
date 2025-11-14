@@ -1,4 +1,4 @@
-package prv_kolokvium.ex18_FrontPage;
+package prv_kolokvium.ex19_FrontPage;
 
 import java.util.*;
 import java.util.stream.Collectors;
