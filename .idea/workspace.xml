@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e3bcd809-6b3e-4076-9b0f-23fc0af324fb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prv_kolokvium/ex17_LoadedCoin/LoadedCoinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex18_LoadedCoin/LoadedCoinTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prv_kolokvium/ex18_FrontPage/FrontPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prv_kolokvium/ex19_FrontPage/FrontPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +103,9 @@
     "Application.Shapes2Test.executor": "Run",
     "Application.ShapesTest.executor": "Run",
     "Application.SubtitlesTest (1).executor": "Run",
-    "Application.SubtitlesTest.executor": "Debug",
+    "Application.SubtitlesTest (2).executor": "Run",
+    "Application.SubtitlesTest (3).executor": "Run",
+    "Application.SubtitlesTest.executor": "Run",
     "Application.TripleTest.executor": "Run",
     "Application.WeatherStationTest.executor": "Run",
     "Application.prv_kolokvium.ex17_MojDDV2.MojDDVTest (1).executor": "Run",
@@ -130,7 +130,7 @@
       <recent name="prv_kol_za_vezbanje.Shapes2Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MojDDVTest (1)">
+  <component name="RunManager" selected="Application.SubtitlesTest (3)">
     <configuration name="MojDDVTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex17_MojDDV2.MojDDVTest" />
       <module name="Advanced-Programming" />
@@ -144,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MojDDVTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex16_MojDDV.MojDDVTest" />
+    <configuration name="SubtitlesTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex20_Subtitles.SubtitlesTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex16_MojDDV.*" />
+          <option name="PATTERN" value="prv_kolokvium.ex20_Subtitles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MojDDVTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex17_MojDDV2.MojDDVTest" />
+    <configuration name="SubtitlesTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex20_Subtitles.SubtitlesTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex17_MojDDV2.*" />
+          <option name="PATTERN" value="prv_kolokvium.ex20_Subtitles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prv_kolokvium.ex17_MojDDV2.MojDDVTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex17_MojDDV2.MojDDVTest" />
+    <configuration name="SubtitlesTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex20_Subtitles.SubtitlesTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex17_MojDDV2.*" />
+          <option name="PATTERN" value="prv_kolokvium.ex20_Subtitles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prv_kolokvium.ex17_MojDDV2.MojDDVTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex17_MojDDV2.MojDDVTest" />
+    <configuration name="SubtitlesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex20_Subtitles.SubtitlesTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex17_MojDDV2.*" />
+          <option name="PATTERN" value="prv_kolokvium.ex20_Subtitles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubtitlesTest (3)" />
+        <item itemvalue="Application.SubtitlesTest (2)" />
+        <item itemvalue="Application.SubtitlesTest (1)" />
+        <item itemvalue="Application.SubtitlesTest" />
         <item itemvalue="Application.MojDDVTest (1)" />
-        <item itemvalue="Application.MojDDVTest" />
-        <item itemvalue="Application.prv_kolokvium.ex17_MojDDV2.MojDDVTest (1)" />
-        <item itemvalue="Application.prv_kolokvium.ex17_MojDDV2.MojDDVTest" />
-        <item itemvalue="Application.MojDDVTest (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -242,6 +242,7 @@
       <workItem from="1763023057182" duration="5569000" />
       <workItem from="1763060594098" duration="22087000" />
       <workItem from="1763119474349" duration="14257000" />
+      <workItem from="1763146900883" duration="5384000" />
     </task>
     <servers />
   </component>
