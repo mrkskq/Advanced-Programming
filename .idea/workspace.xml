@@ -37,6 +37,7 @@
     "Application.AirportsTest (1).executor": "Run",
     "Application.AirportsTest (2).executor": "Run",
     "Application.AirportsTest.executor": "Run",
+    "Application.Anagrams.executor": "Run",
     "Application.ApplicantEvaluationTest.executor": "Run",
     "Application.ArchiveStoreTest (1).executor": "Debug",
     "Application.ArchiveStoreTest.executor": "Run",
@@ -44,6 +45,7 @@
     "Application.BooksTest (1).executor": "Debug",
     "Application.BooksTest.executor": "Run",
     "Application.CarTest.executor": "Run",
+    "Application.ChatSystemTest.executor": "Run",
     "Application.CirclesTest (1).executor": "Run",
     "Application.CirclesTest (2).executor": "Run",
     "Application.CirclesTest.executor": "Run",
@@ -80,6 +82,8 @@
     "Application.LabExercisesTest (1).executor": "Run",
     "Application.LabExercisesTest (2).executor": "Run",
     "Application.LabExercisesTest.executor": "Run",
+    "Application.LibraryTester (1).executor": "Run",
+    "Application.LibraryTester.executor": "Run",
     "Application.LoadedCoinTest.executor": "Run",
     "Application.LocalDateTimeTest.executor": "Run",
     "Application.LocalTimeTest.executor": "Run",
@@ -111,14 +115,18 @@
     "Application.prv_kolokvium.ex17_MojDDV2.MojDDVTest (1).executor": "Run",
     "Application.prv_kolokvium.ex17_MojDDV2.MojDDVTest.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/anama/Desktop/FINKI/Advanced-Programming",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -130,13 +138,13 @@
       <recent name="prv_kol_za_vezbanje.Shapes2Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubtitlesTest (3)">
-    <configuration name="MojDDVTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex17_MojDDV2.MojDDVTest" />
+  <component name="RunManager" selected="Application.LibraryTester (1)">
+    <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.lab5ex2.Anagrams" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex17_MojDDV2.*" />
+          <option name="PATTERN" value="labs.lab5ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubtitlesTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex20_Subtitles.SubtitlesTest" />
+    <configuration name="ChatSystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.lab5ex1.ChatSystemTest" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex20_Subtitles.*" />
+          <option name="PATTERN" value="labs.lab5ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +165,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubtitlesTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex20_Subtitles.SubtitlesTest" />
+    <configuration name="LibraryTester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.lab5ex3.LibraryTester" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex20_Subtitles.*" />
+          <option name="PATTERN" value="labs.lab5ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.lab5ex3.LibraryTester" />
+      <module name="Advanced-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="labs.lab5ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,34 +204,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubtitlesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex20_Subtitles.SubtitlesTest" />
-      <module name="Advanced-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex20_Subtitles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LibraryTester (1)" />
+        <item itemvalue="Application.LibraryTester" />
+        <item itemvalue="Application.Anagrams" />
+        <item itemvalue="Application.ChatSystemTest" />
         <item itemvalue="Application.SubtitlesTest (3)" />
-        <item itemvalue="Application.SubtitlesTest (2)" />
-        <item itemvalue="Application.SubtitlesTest (1)" />
-        <item itemvalue="Application.SubtitlesTest" />
-        <item itemvalue="Application.MojDDVTest (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
       </set>
     </attachedChunks>
   </component>
@@ -243,6 +251,9 @@
       <workItem from="1763060594098" duration="22087000" />
       <workItem from="1763119474349" duration="14257000" />
       <workItem from="1763146900883" duration="5384000" />
+      <workItem from="1764706807210" duration="4841000" />
+      <workItem from="1764764888638" duration="1308000" />
+      <workItem from="1764771374387" duration="12276000" />
     </task>
     <servers />
   </component>
