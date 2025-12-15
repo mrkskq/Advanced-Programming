@@ -41,6 +41,7 @@
     "Application.ApplicantEvaluationTest.executor": "Run",
     "Application.ArchiveStoreTest (1).executor": "Debug",
     "Application.ArchiveStoreTest.executor": "Run",
+    "Application.BankBalance.executor": "Run",
     "Application.BankTester.executor": "Run",
     "Application.BooksTest (1).executor": "Debug",
     "Application.BooksTest.executor": "Run",
@@ -68,6 +69,7 @@
     "Application.F1Test (1).executor": "Run",
     "Application.F1Test (2).executor": "Run",
     "Application.F1Test.executor": "Run",
+    "Application.FakeApiPing.executor": "Run",
     "Application.FileSystemTest (1).executor": "Run",
     "Application.FileSystemTest (2).executor": "Run",
     "Application.FileSystemTest (3).executor": "Run",
@@ -110,6 +112,8 @@
     "Application.SubtitlesTest (2).executor": "Run",
     "Application.SubtitlesTest (3).executor": "Run",
     "Application.SubtitlesTest.executor": "Run",
+    "Application.TextCounter (1).executor": "Run",
+    "Application.TextCounter.executor": "Run",
     "Application.TripleTest.executor": "Run",
     "Application.WeatherStationTest.executor": "Run",
     "Application.prv_kolokvium.ex17_MojDDV2.MojDDVTest (1).executor": "Run",
@@ -138,13 +142,13 @@
       <recent name="prv_kol_za_vezbanje.Shapes2Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LibraryTester (1)">
-    <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.lab5ex2.Anagrams" />
+  <component name="RunManager" selected="Application.FakeApiPing">
+    <configuration name="BankBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.lab7ex3.BankBalance" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs.lab5ex2.*" />
+          <option name="PATTERN" value="labs.lab7ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChatSystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.lab5ex1.ChatSystemTest" />
+    <configuration name="FakeApiPing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.lab7ex2.FakeApiPing" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs.lab5ex1.*" />
+          <option name="PATTERN" value="labs.lab7ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.lab5ex3.LibraryTester" />
+    <configuration name="TextCounter (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.lab7ex1.TextCounter" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs.lab5ex3.*" />
+          <option name="PATTERN" value="labs.lab7ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubtitlesTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prv_kolokvium.ex20_Subtitles.SubtitlesTest" />
+    <configuration name="TextCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.lab7ex1.TextCounter" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prv_kolokvium.ex20_Subtitles.*" />
+          <option name="PATTERN" value="labs.lab7ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FakeApiPing" />
+        <item itemvalue="Application.TextCounter (1)" />
+        <item itemvalue="Application.TextCounter" />
+        <item itemvalue="Application.BankBalance" />
         <item itemvalue="Application.LibraryTester (1)" />
-        <item itemvalue="Application.LibraryTester" />
-        <item itemvalue="Application.Anagrams" />
-        <item itemvalue="Application.ChatSystemTest" />
-        <item itemvalue="Application.SubtitlesTest (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -254,6 +258,8 @@
       <workItem from="1764706807210" duration="4841000" />
       <workItem from="1764764888638" duration="1308000" />
       <workItem from="1764771374387" duration="12276000" />
+      <workItem from="1764798741319" duration="96000" />
+      <workItem from="1765825277637" duration="6240000" />
     </task>
     <servers />
   </component>
