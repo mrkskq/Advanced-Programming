@@ -1,4 +1,4 @@
-package labs.lab5ex2;
+package labs.lab5;
 
 import java.io.BufferedReader;
 import java.io.IOException;

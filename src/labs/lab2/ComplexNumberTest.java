@@ -1,4 +1,4 @@
-package labs.lab2ex7;
+package labs.lab2;
 
 import java.util.Collections;
 import java.util.LinkedList;

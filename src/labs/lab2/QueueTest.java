@@ -1,4 +1,4 @@
-package labs.lab2ex6;
+package labs.lab2;
 
 import java.util.LinkedList;
 import java.util.Scanner;

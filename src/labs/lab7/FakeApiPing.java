@@ -1,4 +1,4 @@
-package labs.lab7ex2;
+package labs.lab7;
 
 //package office_hours;
 

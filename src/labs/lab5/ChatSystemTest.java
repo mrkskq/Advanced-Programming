@@ -1,10 +1,9 @@
-package labs.lab5ex1;
+package labs.lab5;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.*;
 import java.util.TreeSet;
-import java.util.stream.Collectors;
 
 class NoSuchRoomException extends Exception {
     public NoSuchRoomException(String roomName) {

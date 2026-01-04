@@ -1,9 +1,8 @@
-package labs.lab3ex3;
+package labs.lab3;
 
 import java.io.*;
 import java.util.*;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 // TODO: Add classes and implement methods
 class Applicant{

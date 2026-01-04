@@ -1,4 +1,4 @@
-package labs.lab1ex1;
+package labs.lab1;
 
 import java.util.*;
 import java.util.stream.Collectors;

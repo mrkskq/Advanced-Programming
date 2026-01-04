@@ -1,8 +1,5 @@
-package labs.lab7ex1;
+package labs.lab7;
 
-import java.time.Duration;
-import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.util.*;
 import java.util.concurrent.*;
 

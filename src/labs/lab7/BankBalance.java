@@ -1,4 +1,4 @@
-package labs.lab7ex3;
+package labs.lab7;
 
 import java.util.*;
 import java.util.concurrent.*;

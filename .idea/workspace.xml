@@ -32,108 +32,110 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AirportsTest (1).executor": "Run",
-    "Application.AirportsTest (2).executor": "Run",
-    "Application.AirportsTest.executor": "Run",
-    "Application.Anagrams.executor": "Run",
-    "Application.ApplicantEvaluationTest.executor": "Run",
-    "Application.ArchiveStoreTest (1).executor": "Debug",
-    "Application.ArchiveStoreTest.executor": "Run",
-    "Application.BankBalance.executor": "Run",
-    "Application.BankTester.executor": "Run",
-    "Application.BooksTest (1).executor": "Debug",
-    "Application.BooksTest.executor": "Run",
-    "Application.CarTest.executor": "Run",
-    "Application.ChatSystemTest.executor": "Run",
-    "Application.CirclesTest (1).executor": "Run",
-    "Application.CirclesTest (2).executor": "Run",
-    "Application.CirclesTest.executor": "Run",
-    "Application.ComplexNumberTest.executor": "Run",
-    "Application.ComponentTest (1).executor": "Run",
-    "Application.ComponentTest (2).executor": "Run",
-    "Application.ComponentTest (3).executor": "Run",
-    "Application.ComponentTest (4).executor": "Run",
-    "Application.ComponentTest (5).executor": "Run",
-    "Application.ComponentTest.executor": "Run",
-    "Application.DailyTemperatureTest (1).executor": "Run",
-    "Application.DailyTemperatureTest (2).executor": "Run",
-    "Application.DailyTemperatureTest.executor": "Run",
-    "Application.DiscountsTest (1).executor": "Run",
-    "Application.DiscountsTest (2).executor": "Run",
-    "Application.DiscountsTest (3).executor": "Run",
-    "Application.DiscountsTest.executor": "Run",
-    "Application.EnrollmentsTest.executor": "Run",
-    "Application.EvaluatorTest.executor": "Run",
-    "Application.F1Test (1).executor": "Run",
-    "Application.F1Test (2).executor": "Run",
-    "Application.F1Test.executor": "Run",
-    "Application.FakeApiPing.executor": "Run",
-    "Application.FileSystemTest (1).executor": "Run",
-    "Application.FileSystemTest (2).executor": "Run",
-    "Application.FileSystemTest (3).executor": "Run",
-    "Application.FileSystemTest (4).executor": "Run",
-    "Application.FileSystemTest (5).executor": "Run",
-    "Application.FileSystemTest.executor": "Run",
-    "Application.FrontPageTest.executor": "Run",
-    "Application.GenericFractionTest.executor": "Run",
-    "Application.HealthyMeals (1).executor": "Run",
-    "Application.HealthyMeals.executor": "Run",
-    "Application.HospitalDemo.executor": "Run",
-    "Application.LabExercisesTest (1).executor": "Run",
-    "Application.LabExercisesTest (2).executor": "Run",
-    "Application.LabExercisesTest.executor": "Run",
-    "Application.LibraryTester (1).executor": "Run",
-    "Application.LibraryTester.executor": "Run",
-    "Application.LoadedCoinTest.executor": "Run",
-    "Application.LocalDateTimeTest.executor": "Run",
-    "Application.LocalTimeTest.executor": "Run",
-    "Application.LoggerTest (1).executor": "Run",
-    "Application.LoggerTest.executor": "Run",
-    "Application.Main (1).executor": "Run",
-    "Application.Main.executor": "Debug",
-    "Application.MinAndMax (1).executor": "Run",
-    "Application.MinAndMax.executor": "Run",
-    "Application.MojDDVTest (1).executor": "Run",
-    "Application.MojDDVTest (2).executor": "Run",
-    "Application.MojDDVTest (3).executor": "Run",
-    "Application.MojDDVTest.executor": "Run",
-    "Application.MovieTheaterTester (1).executor": "Run",
-    "Application.MovieTheaterTester.executor": "Run",
-    "Application.MoviesTest.executor": "Run",
-    "Application.ResizableArrayTest.executor": "Run",
-    "Application.SchedulerTest.executor": "Run",
-    "Application.Shapes1Test.executor": "Run",
-    "Application.Shapes2Test (1).executor": "Run",
-    "Application.Shapes2Test.executor": "Run",
-    "Application.ShapesTest.executor": "Run",
-    "Application.SubtitlesTest (1).executor": "Run",
-    "Application.SubtitlesTest (2).executor": "Run",
-    "Application.SubtitlesTest (3).executor": "Run",
-    "Application.SubtitlesTest.executor": "Run",
-    "Application.TextCounter (1).executor": "Run",
-    "Application.TextCounter.executor": "Run",
-    "Application.TripleTest.executor": "Run",
-    "Application.WeatherStationTest.executor": "Run",
-    "Application.prv_kolokvium.ex17_MojDDV2.MojDDVTest (1).executor": "Run",
-    "Application.prv_kolokvium.ex17_MojDDV2.MojDDVTest.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/anama/Desktop/FINKI/Advanced-Programming",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AirportsTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AirportsTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AirportsTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ApplicantEvaluationTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArchiveStoreTest (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ArchiveStoreTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankBalance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankTester.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BooksTest (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.BooksTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChatSystemTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CirclesTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.CirclesTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.CirclesTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComplexNumberTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComponentTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComponentTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComponentTest (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComponentTest (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComponentTest (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComponentTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DailyTemperatureTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.DailyTemperatureTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.DailyTemperatureTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiscountsTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiscountsTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiscountsTest (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiscountsTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnrollmentsTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvaluatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.F1Test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.F1Test (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.F1Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FakeApiPing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileSystemTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileSystemTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileSystemTest (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileSystemTest (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileSystemTest (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileSystemTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrontPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericFractionTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HealthyMeals (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.HealthyMeals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HospitalDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LabExercisesTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.LabExercisesTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.LabExercisesTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LibraryTester (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.LibraryTester.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoadedCoinTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocalDateTimeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocalTimeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoggerTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoggerTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MinAndMax (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinAndMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MojDDVTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MojDDVTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MojDDVTest (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MojDDVTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieTheaterTester (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieTheaterTester.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoviesTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResizableArrayTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SchedulerTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shapes1Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shapes2Test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shapes2Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShapesTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubtitlesTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubtitlesTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubtitlesTest (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubtitlesTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TextCounter (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TextCounter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TripleTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeatherStationTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.labs.lab7ex3dop.BankBalance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.prv_kolokvium.ex17_MojDDV2.MojDDVTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.prv_kolokvium.ex17_MojDDV2.MojDDVTest.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/anama/Desktop/FINKI/Advanced-Programming&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lab2ex6" />
@@ -142,13 +144,13 @@
       <recent name="prv_kol_za_vezbanje.Shapes2Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FakeApiPing">
+  <component name="RunManager" selected="Application.labs.lab7.dop.BankBalance">
     <configuration name="BankBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.lab7ex3.BankBalance" />
+      <option name="MAIN_CLASS_NAME" value="labs.lab7.BankBalance" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs.lab7ex3.*" />
+          <option name="PATTERN" value="labs.lab7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,37 +159,11 @@
       </method>
     </configuration>
     <configuration name="FakeApiPing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.lab7ex2.FakeApiPing" />
+      <option name="MAIN_CLASS_NAME" value="labs.lab7.FakeApiPing" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs.lab7ex2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LibraryTester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.lab5ex3.LibraryTester" />
-      <module name="Advanced-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="labs.lab5ex3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TextCounter (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.lab7ex1.TextCounter" />
-      <module name="Advanced-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="labs.lab7ex1.*" />
+          <option name="PATTERN" value="labs.lab7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,11 +172,37 @@
       </method>
     </configuration>
     <configuration name="TextCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs.lab7ex1.TextCounter" />
+      <option name="MAIN_CLASS_NAME" value="labs.lab7.TextCounter" />
       <module name="Advanced-Programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs.lab7ex1.*" />
+          <option name="PATTERN" value="labs.lab7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.lab7.TextCounter" />
+      <module name="Advanced-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="labs.lab7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="labs.lab7.dop.BankBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs.lab7.dop.BankBalance" />
+      <module name="Advanced-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="labs.lab7.dop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.labs.lab7.dop.BankBalance" />
         <item itemvalue="Application.FakeApiPing" />
         <item itemvalue="Application.TextCounter (1)" />
         <item itemvalue="Application.TextCounter" />
         <item itemvalue="Application.BankBalance" />
-        <item itemvalue="Application.LibraryTester (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -260,6 +262,7 @@
       <workItem from="1764771374387" duration="12276000" />
       <workItem from="1764798741319" duration="96000" />
       <workItem from="1765825277637" duration="6240000" />
+      <workItem from="1766006189899" duration="2775000" />
     </task>
     <servers />
   </component>

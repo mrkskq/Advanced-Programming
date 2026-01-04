@@ -1,4 +1,4 @@
-package labs.lab1ex3;
+package labs.lab1;
 
 import java.util.Scanner;
 import java.util.function.Predicate;
