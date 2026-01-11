@@ -40,12 +40,12 @@ interface NewsSubscriber{
 // =======================
 // Concrete Subscriber
 // =======================
-class User implements NewsSubscriber{
+class User1 implements NewsSubscriber{
 
     String username;
     List<String> receivedNews;
 
-    public User(String username){
+    public User1(String username){
         this.username = username;
         receivedNews = new ArrayList<>();
     }
@@ -112,8 +112,8 @@ class NewsOutlet{
 // =======================
 public class ObserverTest {
     public static void main(String[] args) {
-        NewsSubscriber s1 = new User("stefan");
-        NewsSubscriber s2 = new User("ana");
+        NewsSubscriber s1 = new User1("stefan");
+        NewsSubscriber s2 = new User1("ana");
 
         NewsOutlet outlet = new NewsOutlet();
         outlet.subscribe(s1);
